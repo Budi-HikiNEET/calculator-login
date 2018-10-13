@@ -1,0 +1,23 @@
+J:\Tugas\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.exe.config
+J:\Tugas\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.exe
+J:\Tugas\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.pdb
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.csprojResolveAssemblyReference.cache
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Form1.resources
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Properties.Resources.resources
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.csproj.GenerateResource.Cache
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.exe
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.pdb
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Login.resources
+J:\Tugas\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Cal.resources
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.csprojAssemblyReference.cache
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.exe
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.pdb
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Cal.resources
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Form1.resources
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Login.resources
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.Properties.Resources.resources
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.csproj.GenerateResource.cache
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\obj\Debug\CalGUI.csproj.CoreCompileInputs.cache
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.exe.config
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.exe
+D:\Materi Sekolah\Kelas XI\KK3\CalGUI\CalGUI\bin\Debug\CalGUI.pdb
